@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peringatan Akses</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f8d7da;
+            color: #721c24;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Akses Anda Dibatasi</h1>
+    <p>Mohon diperhatikan bahwa akses ke situs ini dibatasi. Silakan hubungi tim IT support untuk informasi lebih lanjut.</p>
+</body>
+</html>
